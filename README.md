@@ -2,7 +2,7 @@
 
 <!-- Try it 👉 <a href="https://quiz-app-29f85.web.app/"> here</a> -->
 
-<p>This Blog web app was made by folling the NextJS documentation
+<p>This Blog web app was made by following the NextJS documentation
 </p>
 <h2>Tools used:</h2>
 <ul>
