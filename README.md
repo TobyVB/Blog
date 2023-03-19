@@ -12,3 +12,4 @@
   </ul>
 
   <hr margin-bottom="40px" />
+<img height="300px" alt="Screenshot 2023-03-19 at 4 48 52 PM" src="https://user-images.githubusercontent.com/98196156/226164053-2a55833c-6c09-42c9-9514-e9d665980a7f.png">
