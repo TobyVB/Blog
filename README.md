@@ -1,6 +1,6 @@
 <h1>Blog App</h1>
 
-Try it 👉 <a href="blog-pci4smfo2-tobyvb.vercel.app"> here</a>
+Try it 👉 <a href="https://tobyvbsblog.vercel.app/"> here</a>
 
 <p>This Blog web app was made by following the NextJS documentation
 </p>
